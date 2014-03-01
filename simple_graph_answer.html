@@ -194,7 +194,7 @@ var link = svg.selectAll(".link")
 
 var node = svg.selectAll(".node")
               .data(graph.nodes)
-            .enter()
+              .enter()
               .append("g").attr("class", "node");
 
 node.append("circle")
