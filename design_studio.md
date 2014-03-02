@@ -11,4 +11,4 @@
 - Node-link diagram seems to be most appropriate here because here are talking about relations and collaborations,
 
 # part 3:
-- We had two ideas, one was using line graph to show the contricution of individual user another was to show the collaboration using a hive plot. We choose the hive plot because it not only shows the commit timescale, it shows the collaoboration very clearly, which could be a valuable information. (Please check the sketch.png for the sketch).
+- We had two ideas, one was using line graph to show the contricution of individual user another was to show the collaboration using a hive plot. We choose the hive plot because it not only shows the commit timescale, it shows the collaoboration very clearly, which could be a valuable information. (Please check the sketch.jpg for the sketch).
