@@ -1,0 +1,4 @@
+1. They need to reptresent the commit information, time information, and the information about the authors.
+2. For big project we found that there are a lot more users that the small projects (we can only see the last 30 commits). 
+3. This makes the graph vertically massive. 
+4. For more complex data we need to be more careful about just representing the graphs linearly. For example, for github visualization when the project was old, and had a lot of active users, it was really hard to see the big picture. So we need to make the visualization more interactive (possibly with sliders and filters).

@@ -31,4 +31,5 @@
 
 ### Part 2:
 
-- Static graph would not be sufficient because then we'd 
+- Static graph would not be sufficient because then we'd not be able to see the whole timeline. Also we would not have as much information.
+- If many users join then it would get harder to visualize the graph in a small frame. Then we'd have to design something dynamic.

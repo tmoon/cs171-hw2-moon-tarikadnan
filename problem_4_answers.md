@@ -1,0 +1,1 @@
+For this problem we implemented a hive plot. We made this decision because for repositotires with not too many users it can not only visualize the timeline of commits for each user, but also can show the collaboration between the users. This can be a really valuable information. 
