@@ -24,7 +24,11 @@
     - Data:a.  Number of commits b. Time of commit
     - Many Pushes: This could present a problem of the scale of the circles.
 5. Pulse:
-
     - Audience: contributors, project managers;
     - Data: a) proposed pull requests b) merge requests c) commits d) branches etc
     - Many pushes: Will have a lot more data and it will be hard to visualize with the techniques we have.
+
+
+### Part 2:
+
+- Static graph would not be sufficient because then we'd 
